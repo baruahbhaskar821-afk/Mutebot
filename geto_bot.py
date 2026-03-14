@@ -8,8 +8,8 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, ContextTypes, filters
 
 # ================= CONFIG =================
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
-OWNER_ID = 7616709190
+BOT_TOKEN = "8799947913:AAEHZfbm1z5ReIsQkBMBxdknX9ObEu08VaY"
+OWNER_ID = 8568230592
 DATA_FILE = "data.json"
 
 SPEED_DELAY = 0.001
